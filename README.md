@@ -1,4 +1,4 @@
-# Database-Project-for-an-Electronics-Vendor
+# Database-Project-for-an-Electronics-Store
 Designed and constructed an SQL database for an electronics store interfaced with Java Swing GUI.
 
 A customer can register and Login.
